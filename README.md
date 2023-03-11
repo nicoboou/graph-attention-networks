@@ -1,2 +1,3 @@
-# graph-attention-networks
-Graph Attention Networks (GAT) used on Protein-Protein Interaction (PPI) dataset for multiclass classification task
+# Graph Attention Networks 🧬
+
+Graph Attention Networks (GAT) build *from scratch* used on Protein-Protein Interaction (PPI) 🧬 dataset for multiclass classification task
