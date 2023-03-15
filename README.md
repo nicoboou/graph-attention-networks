@@ -2,7 +2,7 @@
 
 Graph Attention Networks (GAT) build *from scratch* used on Protein-Protein Interaction (PPI) 🧬 dataset for multiclass classification task
 
-![Architecture](https://github.com/nicoboou/graph-attention-networks/blob/main/architecture.png)
+![Architecture](https://github.com/nicoboou/graph-attention-networks/blob/main/GATv2.png)
 
 # Paper
 
